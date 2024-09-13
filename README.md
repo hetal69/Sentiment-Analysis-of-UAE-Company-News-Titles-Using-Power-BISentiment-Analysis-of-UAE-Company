@@ -1,1 +1,51 @@
-# Sentiment-Analysis-of-UAE-Company-News-Titles-Using-Power-BISentiment-Analysis-of-UAE-Company
+# Sentiment Analysis of UAE Company News Titles Using Power BI
+
+This project involves the sentiment analysis of news titles for various UAE companies, utilizing Power BI for visualization. The objective is to offer insights into sentiment trends across different companies over time.
+
+**Project Highlights:**
+
+  1. **Data Extraction:**
+
+    - Utilized the GoogleNews Python library to fetch news articles for a predefined list of UAE companies.
+    - Extracted data included company names, news titles, and publication dates.
+
+  2. **Data Collection & Cleaning:**
+
+    - Collected news articles for major UAE market entities.
+    - Preprocessed text to remove special characters, links, and non-alphanumeric characters.
+
+  3. **Sentiment Analysis:**
+
+    - Employed VADER sentiment analyzer for sentiment scoring.
+    - Classified sentiments as positive, negative, or neutral based on predefined thresholds.
+
+  4. **Validation & Testing:**
+
+    - Manually reviewed a sample of news titles to validate sentiment accuracy.
+    - Conducted unit and integration tests to ensure the accuracy and functionality of the sentiment analysis and data extraction process.
+
+**Implementation Details:**
+
+  - **Data Extraction:** Used libraries like pandas and GoogleNews, and fetched news articles, storing them in a pandas DataFrame.
+
+  - **Text Cleaning:** Implemented text preprocessing to clean news titles.
+
+  - **Sentiment Analysis:** Calculated sentiment scores and categorized them.
+
+  - **Visualization:** Created various visualizations in Power BI, including time series analysis, stacked bar charts, bar charts, word clouds, and heat maps to illustrate sentiment trends.
+
+**Visualizations:**  
+
+  - **Time Series Analysis:** Line chart showing sentiment trends over time for each company.
+      ![image](https://github.com/user-attachments/assets/55c32a28-3c89-4240-8e00-0a8a7947a2b2)
+
+
+  - **Comparison:** Stacked bar chart comparing sentiment scores across companies.
+
+  - **Top Performing Companies:** Bar chart highlighting companies with the highest average sentiment scores.
+
+  - **Word Cloud:** Visualization of frequently occurring words in news titles.
+
+  - **Heat Map:** Sentiment scores across dates and companies for comprehensive trend analysis.
+
+**Experience Reflection:** This project enhanced my ability to handle data extraction, preprocessing, and sentiment analysis, and provided valuable insights into sentiment dynamics. It also emphasized the importance of error handling and collaboration with stakeholders to ensure accurate and relevant results.
