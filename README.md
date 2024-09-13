@@ -47,10 +47,10 @@ This project involves the sentiment analysis of news titles for various UAE comp
   - **Heat Map:** Sentiment scores across dates and companies for comprehensive trend analysis.
       ![image](https://github.com/user-attachments/assets/90fc5f5a-71e5-44d4-891c-fe67f61baf77)
 
-     - **Time Series Analysis:** Line chart showing sentiment trends over time for each company.
+  - **Time Series Analysis:** Line chart showing sentiment trends over time for each company.
       ![image](https://github.com/user-attachments/assets/55c32a28-3c89-4240-8e00-0a8a7947a2b2)
 
-- **Comparison:** Stacked bar chart comparing sentiment scores across companies.
+  - **Comparison:** Stacked bar chart comparing sentiment scores across companies.
       ![image](https://github.com/user-attachments/assets/ff92f41c-7486-4014-ba01-003749c1b1e4)
 
 
