@@ -11,18 +11,18 @@ This project involves the sentiment analysis of news titles for various UAE comp
 
   2. **Data Collection & Cleaning:**
 
-    - Collected news articles for major UAE market entities.
-    - Preprocessed text to remove special characters, links, and non-alphanumeric characters.
+      - Collected news articles for major UAE market entities.
+      - Preprocessed text to remove special characters, links, and non-alphanumeric characters.
 
   3. **Sentiment Analysis:**
 
-    - Employed VADER sentiment analyzer for sentiment scoring.
-    - Classified sentiments as positive, negative, or neutral based on predefined thresholds.
+      - Employed VADER sentiment analyzer for sentiment scoring.
+      - Classified sentiments as positive, negative, or neutral based on predefined thresholds.
 
   4. **Validation & Testing:**
 
-    - Manually reviewed a sample of news titles to validate sentiment accuracy.
-    - Conducted unit and integration tests to ensure the accuracy and functionality of the sentiment analysis and data extraction process.
+      - Manually reviewed a sample of news titles to validate sentiment accuracy.
+      - Conducted unit and integration tests to ensure the accuracy and functionality of the sentiment analysis and data extraction process.
 
 **Implementation Details:**
 
