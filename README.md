@@ -6,8 +6,8 @@ This project involves the sentiment analysis of news titles for various UAE comp
 
   1. **Data Extraction:**
 
-    - Utilized the GoogleNews Python library to fetch news articles for a predefined list of UAE companies.
-    - Extracted data included company names, news titles, and publication dates.
+   - Utilized the GoogleNews Python library to fetch news articles for a predefined list of UAE companies.
+  - Extracted data included company names, news titles, and publication dates.
 
   2. **Data Collection & Cleaning:**
 
@@ -36,16 +36,22 @@ This project involves the sentiment analysis of news titles for various UAE comp
 
 **Visualizations:**  
 
-  - **Time Series Analysis:** Line chart showing sentiment trends over time for each company.
-      ![image](https://github.com/user-attachments/assets/55c32a28-3c89-4240-8e00-0a8a7947a2b2)
-
-
-  - **Comparison:** Stacked bar chart comparing sentiment scores across companies.
-
   - **Top Performing Companies:** Bar chart highlighting companies with the highest average sentiment scores.
+      ![image](https://github.com/user-attachments/assets/d028d0d1-6883-4e73-b38f-21366a5e8181)
+
 
   - **Word Cloud:** Visualization of frequently occurring words in news titles.
+      ![image](https://github.com/user-attachments/assets/452c9e2c-d3a4-4abd-876e-e324510a3116)
+
 
   - **Heat Map:** Sentiment scores across dates and companies for comprehensive trend analysis.
+      ![image](https://github.com/user-attachments/assets/90fc5f5a-71e5-44d4-891c-fe67f61baf77)
+
+     - **Time Series Analysis:** Line chart showing sentiment trends over time for each company.
+      ![image](https://github.com/user-attachments/assets/55c32a28-3c89-4240-8e00-0a8a7947a2b2)
+
+- **Comparison:** Stacked bar chart comparing sentiment scores across companies.
+      ![image](https://github.com/user-attachments/assets/ff92f41c-7486-4014-ba01-003749c1b1e4)
+
 
 **Experience Reflection:** This project enhanced my ability to handle data extraction, preprocessing, and sentiment analysis, and provided valuable insights into sentiment dynamics. It also emphasized the importance of error handling and collaboration with stakeholders to ensure accurate and relevant results.
