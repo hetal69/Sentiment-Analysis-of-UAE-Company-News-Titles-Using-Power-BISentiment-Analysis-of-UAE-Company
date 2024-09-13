@@ -6,8 +6,8 @@ This project involves the sentiment analysis of news titles for various UAE comp
 
   1. **Data Extraction:**
 
-   - Utilized the GoogleNews Python library to fetch news articles for a predefined list of UAE companies.
-  - Extracted data included company names, news titles, and publication dates.
+      - Utilized the GoogleNews Python library to fetch news articles for a predefined list of UAE companies.
+      - Extracted data included company names, news titles, and publication dates.
 
   2. **Data Collection & Cleaning:**
 
